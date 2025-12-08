@@ -127,7 +127,8 @@ The following paper is used as a reference related to ResNet-18-based deepfake d
 
 Cited Paper:
 
-Zhou et al. (2023).
-"Deepfake Detection Based on Multifeature Fusion Using ResNet-18"
-Scientific Reports (Nature)
-DOI: https://doi.org/10.1038/s41598-023-34629-3# deepfake-detection-resnet18
+Rafique, R., et al. (2023).
+Deep fake detection and classification using error-level analysis and deep learning.
+Scientific Reports, Nature.
+
+https://doi.org/10.1038/s41598-023-34629-3
